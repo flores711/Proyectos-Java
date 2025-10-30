@@ -1,0 +1,12 @@
+manuela:sara;pepa;maria;nico
+marco:sara;nico;lucia;maria
+amalia:lucia;manuela
+antonia:lucia;pepa
+maria:nico;manuela;marco
+ana:gabi
+lucia:nico;amalia;antonia;marco;maria
+pepa:sara;nico;manuela;antonia
+sara:pepa;nico;marco;manuela;gabi
+nico:marco;maria;lucia;sara;pepa;manuela
+gabi:sara;marco;lucia
+FIN
