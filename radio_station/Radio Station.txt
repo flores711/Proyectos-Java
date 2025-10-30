@@ -1,0 +1,5 @@
+Radio Station:
+
+- toString de AudioElement que llama a duration(), pero duration() ahí es abstracta y no tiene nada. Las subclases que usen ese toString usarían su propio duration()...?
+- toString de PlaybackSequence
+- Constructores de las subclases de SingleAudioElement, usando los constructores de SingleAudioElement y de AudioElement??
