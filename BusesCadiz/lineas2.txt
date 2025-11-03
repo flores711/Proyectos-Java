@@ -1,0 +1,46 @@
+M-010 - Cadiz-San Fernando Norte
+Plaza De Espana; 36.5270; -6.2882
+Avda. Del Puerto-Edif. Trocadero; 36.5280; -6.2990
+Puerta Tierra; 36.5310; -6.3005
+Plaza Asdrubal; 36.5315; -6.3080
+Hospital Puerta Del Mar; 36.5340; -6.3145
+Ingeniero La Cierva; 36.5355; -6.3200
+Telegrafia Sin Hilos; 36.5365; -6.3250
+Complejo Deportivo; 36.5375; -6.3300
+Ponce De Leon; 36.5385; -6.3350
+Avda. Al-Andalus; 36.5400; -6.3400
+Avda. Almirante Leon Herrero; 36.5410; -6.3450
+Parque Almirante Laulhe; 36.5420; -6.3500
+Reyes Catolicos; 36.5430; -6.3550
+Ruiz Marcet; 36.5440; -6.3600
+General Lobo; 36.5450; -6.3650
+Hospital S. Carlos; 36.5460; -6.3700
+M-011 - Cadiz-San Fernando Sur
+Plaza De Espana; 36.5270; -6.2882
+Avda. Del Puerto-Edif. Trocadero; 36.5280; -6.2990
+Puerta Tierra; 36.5310; -6.3005
+Plaza Asdrubal; 36.5315; -6.3080
+Hospital Puerta del Mar; 36.5340; -6.3145
+Ingeniero La Cierva; 36.5355; -6.3200
+Telegrafia Sin Hilos; 36.5365; -6.3250
+Complejo Deportivo; 36.5375; -6.3300
+Avda. Constitucion 1.978-Comisaria; 36.5390; -6.3325
+Avda. Constitucion 1.978-Instituto; 36.5400; -6.3350
+Ronda Del Estero; 36.5410; -6.3375
+San Onofre; 36.5420; -6.3400
+Manuel De Falla; 36.5430; -6.3425
+San Marcos; 36.5440; -6.3450
+Avda. San Juan Bosco; 36.5450; -6.3475
+Plaza De Juan Vargas; 36.5460; -6.3500
+M-020 - Cadiz-Chiclana de la Frontera
+Plaza De Espana; 36.5270; -6.2882
+Avda. Del Puerto-Edif. Trocadero; 36.5280; -6.2990
+Puerta Tierra; 36.5310; -6.3005
+Plaza Asdrubal; 36.5315; -6.3080
+Hospital Puerta del Mar; 36.5340; -6.3145
+Telegrafia Sin Hilos; 36.5365; -6.3250
+Pinar De Los Franceses; 36.5380; -6.3300
+Los Esteros; 36.5400; -6.3350
+Avda. Del Comercio; 36.5420; -6.3400
+Rio Iro; 36.5440; -6.3450
+FIN
