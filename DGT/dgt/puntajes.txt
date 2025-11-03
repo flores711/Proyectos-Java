@@ -1,0 +1,15 @@
+Ana García	2	test24	suspenso
+Luis Fernández	3	test24	suspenso
+Marta Pérez	4	test24	suspenso
+Jorge Ruiz	2	test24	suspenso
+Elena Soto	2	test24	suspenso
+Carlos López	3	test32	suspenso
+Sofía Morales	2	test32	suspenso
+David Ruiz	4	test32	suspenso
+Laura Jiménez	2	test32	suspenso
+Raúl Castillo	5	test32	suspenso
+Ana Gómez	7	test40	
+Luis Herrera	3	test40	suspenso
+Marta Ruiz	6	test40	suspenso
+Jorge Torres	4	test40	suspenso
+Elena Martín	3	test40	suspenso
